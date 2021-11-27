@@ -1,5 +1,5 @@
 ### Hi 👋 My name is Akash Kumar
-<img src="https://github-readme-stats.vercel.app/api?username=Krakash06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+
 
 I really enjoy coding. I have always been fascinated with how the complex real world problems can be solved by writing few lines of codes.
 I started my coding journey with JAVA programming language and learned how the basics of programing work.
@@ -13,7 +13,10 @@ My specialties include JAVA, JavaScript, HTML, CSS, Data structures & Algorithm.
 <img src="https://camo.githubusercontent.com/7f73136d92799b19be179d1ed87b461120c35ed917c7d5ab59a7606209da7bd3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"/> <img src="https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"/>
  <img src="https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"/> 
 <hr>
+<img src="https://github-readme-stats.vercel.app/api?username=Krakash06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krakash06&&"/>
+<hr/>
 <a href=”https://www.linkedin.com/in/akash-kumar06/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"/></a>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>:  kr.akash651998@gmail.com.
+<h4><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <span>: kr.akash651998@gmail.com</span></h4>
 
 

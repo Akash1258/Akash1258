@@ -17,6 +17,6 @@ My specialties include JAVA, JavaScript, HTML, CSS, Data structures & Algorithm.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krakash06&&"/>
 <hr/>
 <a href=”https://www.linkedin.com/in/akash-kumar06/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"/></a>
-<h4><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <span>: kr.akash651998@gmail.com</span></h4>
+<h4>Email: kr.akash651998@gmail.com</span></h4>
 
 

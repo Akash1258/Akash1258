@@ -4,7 +4,7 @@
 I really enjoy coding. I have always been fascinated with how the complex real world problems can be solved by writing few lines of code.
 I started my coding journey with JAVA programming language and learned how the basics of programing work.
 I have completed my B.Tech with specialization in Computer Science. Currently, I'm learning the MERN stack at Masai School. I'm enthusiastically looking forward to working in Web Development.
-My specialties include JAVA, JavaScript, HTML, CSS, Data structures & Algorithm.
+My specialties include JavaScript, HTML, CSS, React, EpressJs, MongoDB Data structures & Algorithm.
 
 - 🌱 I’m currently learning Data Structures & Algorithms & MERN stack
 

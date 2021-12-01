@@ -16,7 +16,7 @@ My specialties include JavaScript, HTML, CSS, React, EpressJs, MongoDB Data stru
 <img src="https://github-readme-stats.vercel.app/api?username=Krakash06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krakash06&&"/>
 <hr/>
-<a href=”https://www.linkedin.com/in/akash-kumar06/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"/></a>
+<a href="https://www.linkedin.com/in/akash-kumar06/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"/></a>
 <h4>Email: kr.akash651998@gmail.com</span></h4>
 
 

@@ -3,7 +3,7 @@
 
 I really enjoy coding. I have always been fascinated with how the complex real world problems can be solved by writing few lines of code.
 I started my coding journey with JAVA programming language and learned how the basics of programing work.
-I have completed my B.Tech with specialization in Computer Science. I have also completed the MERN stack from Masai School. Currently I am woking as froentend developer.
+I have completed my B.Tech with specialization in Computer Science. I have also completed the MERN stack from Masai School. Currently I am woking as a froentend developer.
 My specialties include JavaScript, HTML, CSS, React, EpressJs, MongoDB Data structures & Algorithm.
 
 - 🌱 I’m currently learning Data Structures & Algorithms & MERN stack
